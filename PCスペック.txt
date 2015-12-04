@@ -1,0 +1,38 @@
+OS 名	Microsoft Windows 8.1
+バージョン	6.3.9600 ビルド 9600
+OS の他の説明 	利用不可
+OS 製造元	Microsoft Corporation
+システム名	LENOVO-PC
+システム製造元	LENOVO
+システムモデル	80G0
+システムの種類	x64-ベース PC
+システム SKU	LENOVO_MT_80G0_BU_idea_FM_Lenovo G50-30
+プロセッサ	Intel(R) Celeron(R) CPU  N2840  @ 2.16GHz、2159 Mhz、2 個のコア、2 個のロジカル プロセッサ
+BIOS バージョン/日付	LENOVO A7CN44WW, 2014/10/21
+SMBIOS バージョン	2.7
+埋め込みコントローラーのバージョン	1.44
+BIOS モード	UEFI
+BaseBoard メーカー	LENOVO
+BaseBoard モデル	利用不可
+BaseBoard 名	ベース ボード
+プラットフォームの役割	モバイル
+セキュア ブートの状態	有効
+PCR7 構成	バインド不可
+Windows ディレクトリ	C:\WINDOWS
+システム ディレクトリ	C:\WINDOWS\system32
+ブート デバイス	\Device\HarddiskVolume2
+ロケール	日本
+ハードウェア アブストラクション レイヤー	バージョン = "6.3.9600.17196"
+ユーザー名	Lenovo-PC\LENOVO-PC\俊紀
+タイム ゾーン	東京 (標準時)
+インストール済みの物理メモリ (RAM)	4.00 GB
+合計物理メモリ	3.89 GB
+利用可能な物理メモリ	1.59 GB
+合計仮想メモリ	5.51 GB
+利用可能な仮想メモリ	2.31 GB
+ページ ファイルの空き容量	1.63 GB
+ページ ファイル	C:\pagefile.sys
+Hyper-V - VM モニター モード拡張機能	はい
+Hyper-V - 第 2 レベル アドレス変換拡張機能	はい
+Hyper-V - ファームウェアで仮想化が有効	いいえ
+Hyper-V - データ実行防止	はい
